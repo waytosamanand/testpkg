@@ -1,0 +1,12 @@
+{
+  "name": "testpkg",
+  "version": "1.0.0",
+  "description": "This is a test package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waytosamanand/testpkg.git"
+  },
+  "author": "waytosamanand",
+  "license": "MIT",
+ }
